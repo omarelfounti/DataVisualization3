@@ -1,0 +1,7 @@
+Linear Regression:
+MSE: 4.12
+R²: 0.91
+
+Neural Network:
+MSE: 3.76
+R²: 0.92
